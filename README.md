@@ -9,8 +9,8 @@
 ' creds to the artists ! '
 <p align="center">
 ' Oh no, my head hurts..( Heartache! Heartache! ) Oh no my head hurts.. ( Heartache! Heartache! ) '
-<p align="center"<img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/ab1b9fa9-2194-474c-8832-a9102beeb2bc" />
-<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/8481dfcb-f2e4-4073-bc3e-b3452cdb6f82" />
+<p align="center"<img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/ab1b9fa9-2194-474c-8832-a9102beeb2bc" /><img width="3464" height="3464" alt="image" src="https://github.com/user-attachments/assets/f8df85bd-2a84-4b4f-aca5-d253a9ead984" />
+
 
 <p align="center">
 placeholder !
