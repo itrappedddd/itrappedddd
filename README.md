@@ -1,4 +1,7 @@
-<p align="center">< place holder
+<p align="center"><p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31wee2qayrxiuhe7xyjdjcbbj774&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wee2qayrxiuhe7xyjdjcbbj774&cover_image=true&theme=natemoo-re&show_offline=true&background_color=5b74ff&interchange=true&profanity=false&hide_remaster=false&bar_color=0061fd&bar_color_cover=false">
+  </a>
 <p align="center"><img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/367f3027-c5d0-4cb1-b119-0bdd3591fe5c" />
 
 <p align="center">
